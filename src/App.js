@@ -21,6 +21,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
+          <h1>Chuck Norris API</h1>
           <img src="chucknorris.jpg"  alt="logo" />
           <p>
             *{quote}* <br/><br/> <a href="https://zhczhen.github.io/chuck-norris/">Refresh</a> to get new chucknorris quote.
