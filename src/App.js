@@ -23,7 +23,7 @@ class App extends Component {
         <header className="App-header">
           <img src="chucknorris.jpg"  alt="logo" />
           <p>
-            *{quote}* <br/><br/> <a href="http://localhost:3000/">Refresh</a> to get new chucknorris quote.
+            *{quote}* <br/><br/> <a href="https://zhczhen.github.io/chuck-norris/">Refresh</a> to get new chucknorris quote.
           </p>
         </header>
       </div>
